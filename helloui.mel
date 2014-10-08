@@ -1,0 +1,13 @@
+//creating the window
+window;
+
+      //This is the layout of the controls
+      columnLayout;
+          
+            //Hello world Text
+            text -label "Hello World!";
+            
+//Outputting the window
+showWindow;
+            
+            
